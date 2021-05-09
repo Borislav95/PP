@@ -1,0 +1,13 @@
+C:\Users\pyz\source\repos\NewProject\NewProject\obj\Debug\netcoreapp3.1\NewProject.csprojAssemblyReference.cache
+C:\Users\pyz\source\repos\NewProject\NewProject\obj\Debug\netcoreapp3.1\NewProject.AssemblyInfoInputs.cache
+C:\Users\pyz\source\repos\NewProject\NewProject\obj\Debug\netcoreapp3.1\NewProject.AssemblyInfo.cs
+C:\Users\pyz\source\repos\NewProject\NewProject\obj\Debug\netcoreapp3.1\NewProject.csproj.CoreCompileInputs.cache
+C:\Users\pyz\source\repos\NewProject\NewProject\bin\Debug\netcoreapp3.1\NewProject.exe
+C:\Users\pyz\source\repos\NewProject\NewProject\bin\Debug\netcoreapp3.1\NewProject.deps.json
+C:\Users\pyz\source\repos\NewProject\NewProject\bin\Debug\netcoreapp3.1\NewProject.runtimeconfig.json
+C:\Users\pyz\source\repos\NewProject\NewProject\bin\Debug\netcoreapp3.1\NewProject.runtimeconfig.dev.json
+C:\Users\pyz\source\repos\NewProject\NewProject\bin\Debug\netcoreapp3.1\NewProject.dll
+C:\Users\pyz\source\repos\NewProject\NewProject\bin\Debug\netcoreapp3.1\NewProject.pdb
+C:\Users\pyz\source\repos\NewProject\NewProject\obj\Debug\netcoreapp3.1\NewProject.dll
+C:\Users\pyz\source\repos\NewProject\NewProject\obj\Debug\netcoreapp3.1\NewProject.pdb
+C:\Users\pyz\source\repos\NewProject\NewProject\obj\Debug\netcoreapp3.1\NewProject.genruntimeconfig.cache
